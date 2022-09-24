@@ -1,7 +1,6 @@
-# Hi! there 👋, Welcome 
+ Hi! there 👋, Welcome 
 
 ## I'm **Rupali Haldiya**, a full-stack web developer!
-======================================================================================================================================
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [rupali-codes.netlify.app](http://https://rupali-codes.netlify.app)
