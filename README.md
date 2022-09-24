@@ -1,4 +1,4 @@
- Hi! there 👋, Welcome 
+ **Hi! there 👋, Welcome** 
 
 ## My name is **Rupali Haldiya** I'm a full-stack web developer!
 
@@ -10,7 +10,7 @@
 
  
 
- ### My Skills 
+ ## My Skills 
  
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -32,7 +32,7 @@
 
 
                     
-### My GitHub Stats
+## My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupali-codes&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -41,7 +41,7 @@
 <a href="http://www.github.com/rupali-codes"><img src="https://activity-graph.herokuapp.com/graph?username=rupali-codes&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-------
+<p align="center"><b>Let's connect!</b></p>
 
 <p align="center"> 
  <a href="https://discord.com/users/Rupali Haldiya #9892" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rupali-codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rupali-codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rupali_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
