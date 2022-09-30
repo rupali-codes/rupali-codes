@@ -5,7 +5,7 @@
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [rupali-codes.netlify.app](http://https://rupali-codes.netlify.app)
 *   ✉️  You can contact me at [rupali7487@gmail.com](mailto:rupali7487@gmail.com)
-*   🧠  I'm learning and developing in JavaScript
+*   🧠  I'm learning and building in JavaScript
 *   ⚡  Happy to see you here :)
 
  
