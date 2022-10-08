@@ -10,8 +10,10 @@
 
 <!--  PROFILES VIEWS -->
 ### Profile Views &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/rupali-codes/count.svg?align=center)
 
+Since - October 8th, 2022
+
+![visitors](https://profile-counter.glitch.me/rupali-codes/count.svg?align=center)
 
  ## My Skills 
  
