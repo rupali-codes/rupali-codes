@@ -8,7 +8,10 @@
 *   🧠  I'm learning and building in JavaScript
 *   ⚡  Happy to see you here :)
 
- 
+<!--  PROFILES VIEWS -->
+### Profile Views &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/rupali-codes/count.svg?align=center)
+
 
  ## My Skills 
  
