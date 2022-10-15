@@ -1,19 +1,11 @@
  **Hi! there 👋, Welcome** 
 
-## My name is **Rupali Haldiya** I'm a full-stack web developer!
+## My name is **Rupali Haldiya**, I'm a full-stack web developer!
 
-*   🌍  I'm based in India
-*   🖥️  See my portfolio at [rupali-codes.netlify.app](http://https://rupali-codes.netlify.app)
-*   ✉️  You can contact me at [rupali7487@gmail.com](mailto:rupali7487@gmail.com)
 *   🧠  I'm learning and building in JavaScript
-*   ⚡  Happy to see you here :)
-
-<!--  PROFILES VIEWS -->
-### Profile Views &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Since - October 8th, 2022
-
-![visitors](https://profile-counter.glitch.me/rupali-codes/count.svg?align=center)
+*   🖥️  To see my portfolio click [here](https://rupali-codes.netlify.app)
+*   ✉️  You can contact me [here](https://rupali-codes.netlify.app/#contact__me)
+*   ⚡  Don't forget to leave a Star if you like what I build :)
 
  ## My Skills 
  
@@ -50,4 +42,4 @@ Since - October 8th, 2022
 <p align="center"><b>Let's connect!</b></p>
 
 <p align="center"> 
- <a href="https://discord.com/users/Rupali Haldiya #9892" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="25" height="25" /></a>&nbsp; &nbsp; <a href="https://www.github.com/rupali-codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="25" height="25" /></a>&nbsp; &nbsp; <a href="https://www.linkedin.com/in/rupali-codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25" height="25" /></a>&nbsp; &nbsp; <a href="https://www.twitter.com/rupali_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="25" height="25" /></a></p>
+<a href="https://www.linkedin.com/in/rupali-codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25" height="25" /></a>&nbsp; &nbsp; <a href="https://www.twitter.com/rupali_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="25" height="25" /></a></p>
