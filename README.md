@@ -1,4 +1,4 @@
-# Hey, I'm Rupali Haldiya 👋
+![image](https://user-images.githubusercontent.com/78981177/196969664-8841ebda-2dae-4f5b-9c34-f16736f145e2.png)
 
 [![Twitter](https://img.shields.io/twitter/follow/rupali_codes?logo=twitter&style=flat-square)](https://twitter.com/rupali_codes)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-%23007bb5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rupali-codes/)
