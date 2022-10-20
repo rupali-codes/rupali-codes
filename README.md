@@ -1,45 +1,21 @@
- **Hi! there 👋, Welcome** 
+# Hey, I'm Rupali Haldiya 👋
 
-## My name is **Rupali Haldiya**, I'm a full-stack web developer!
-
-*   🧠  I'm learning and building in JavaScript
-*   🖥️  To see my portfolio click [here](https://rupali-codes.netlify.app)
-*   ✉️  You can contact me [here](https://rupali-codes.netlify.app/#contact__me)
-*   ⚡  Don't forget to leave a Star if you like what I build :)
-
- ## My Skills 
- 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
- <a href="https://docs.github.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50 height="50" alt="git"></a> <br>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+[![Twitter](https://img.shields.io/twitter/follow/rupali_codes?logo=twitter&style=flat-square)](https://twitter.com/rupali_codes)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-%23007bb5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rupali-codes/)
+[![Email](https://img.shields.io/badge/-Email-lightgrey?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIyIDZDMjIgNC45IDIxLjEgNCAyMCA0SDRDMi45IDQgMiA0LjkgMiA2VjE4QzIgMTkuMSAyLjkgMjAgNCAyMEgyMEMyMS4xIDIwIDIyIDE5LjEgMjIgMThWNk0yMCA2TDEyIDExTDQgNkgyME0yMCAxOEg0VjhMMTIgMTNMMjAgOFYxOFoiIC8+PC9zdmc+)](mailto:rupali7487@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-%23171a21?style=flat-square&logo=data:image/png;base64,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)](https://rupali-codes.netlify.app/)
 
 
-                    
-## My GitHub Stats
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupali-codes&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+- I'm a dedicate web developer who loves to build web applications with modren tools and technology.
+- I'm currently learning React.js
+- I'm open to collaboriting with Open source projects
+- You can contact me [here](https://rupali-codes.netlify.app/#contact-me)
+- To get more informantion about me, see my portfolio [here](https://rupali-codes.netlify.app)
 
-<a href="http://www.github.com/rupali-codes"><img src="https://github-readme-stats.vercel.app/api?username=rupali-codes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rupali-codes's GitHub stats" /></a><a href="http://www.github.com/rupali-codes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rupali-codes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-                      
-<a href="http://www.github.com/rupali-codes"><img src="https://activity-graph.herokuapp.com/graph?username=rupali-codes&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## <p align="">Technical skills</p>
+
+<p align=""><img src="https://img.shields.io/badge/-JavaScript-f7f302"/> <img src="https://img.shields.io/badge/-Node.js-green"/> <img src="https://img.shields.io/badge/-MongoDB-1d6e32"/> <img src="https://img.shields.io/badge/-Express.js-9fa4a6"/> <img src="https://img.shields.io/badge/-Mongoose.js-birghtgreen"/> <img src="https://img.shields.io/badge/-Git-red"/> <img src="https://img.shields.io/badge/-HTML5-critical"/> <img src="https://img.shields.io/badge/-CSS3-blue"/> <img src="https://img.shields.io/badge/-Bootsrtap-blueviolet"/> <img src="https://img.shields.io/badge/-TailwindCSS-9cf"/> <img src="https://img.shields.io/badge/-MySQL-065b70"/> <img src="https://img.shields.io/badge/-Wordpress-02aef7"/></p> 
 
 
-<p align="center"><b>Let's connect!</b></p>
 
-<p align="center"> 
-<a href="https://www.linkedin.com/in/rupali-codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25" height="25" /></a>&nbsp; &nbsp; <a href="https://www.twitter.com/rupali_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="25" height="25" /></a></p>
+
