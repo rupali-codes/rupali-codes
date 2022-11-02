@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/78981177/196969664-8841ebda-2dae-4f5b-9c34-f16736f145e2.png" />
+  <img src="https://pbs.twimg.com/profile_banners/1391356559431802882/1667369462/600x200" />
+  
 </p>
 
 <p align="center">
@@ -22,7 +23,7 @@
  
 </p>
 
-Hey! I'm a Nodejs Backend developer who loves to build web applications and API's with modren tools and technology, Currently I'm learning React.js and I'm open to collaboriting with open source projects, I'm also looking for a job as Node.js developer. To get more information about me you can visit my portfolio [here](https://rupali-codes.netlify.app). You can also follow me on my [social media](https://linktr.ee/rupali_codes) handles if you would like to.
+Hey! I'm a Nodejs Backend developer who loves to build web applications and API's with modren tools and technology, Currently I'm learning React.js and open to collaboriting with open source projects, I'm also looking for a job role as Node.js developer. To get know more about me visit my portfolio [here](https://rupali-codes.netlify.app). You can also follow me on my [social media](https://linktr.ee/rupali_codes) handles if you would like to.
 
 ## <p align="center">Technical skills</p>
 
