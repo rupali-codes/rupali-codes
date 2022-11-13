@@ -1,9 +1,5 @@
 <p align="center">
- ||||||||||||/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\||||||||||||
-</p>
-
-<p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1391356559431802882/1667369462/600x200" />
+  <img src="./my-header.jpg" />
 </p>
 
 <p align="center">
