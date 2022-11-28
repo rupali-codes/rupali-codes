@@ -24,7 +24,7 @@
 
 > **Hey! I'm a Full-stack developer focused on Backend, I build web applications and API's with modren tools and technology, Currently I'm learning ```React.js``` and open to collaboriting in ```open source``` projects, I'm also looking for a job role as ```Node.js developer```. To get know more about me visit my portfolio site [here](https://rupali-codes.netlify.app). You can also follow me on my [social media](https://linktr.ee/rupali_codes) handles if you would like to.**
 
-## <p align="center">Technical skills</p>
+### <p align="center">Technical skills</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f7f302" height=25/> 
@@ -45,5 +45,6 @@
 
 
 <p align="center">
+  <br/>
  ||||||||||||------------^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^v^------------||||||||||||
 </p>
