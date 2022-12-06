@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./my-header.jpg" />
+  <img src="https://user-images.githubusercontent.com/78981177/205883804-98ce3207-635d-419f-9d21-bb3c0c75f5e7.png" alt="header image"/>
 </p>
 
 <p align="center">
