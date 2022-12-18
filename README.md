@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://rupali-codes.netlify.app">
   <img src="https://user-images.githubusercontent.com/78981177/208293926-465377eb-4812-4c4a-b312-0e66281a697c.png" alt="header image"/>
+  </a>
 </p>
 
 <p align="center">
@@ -32,15 +34,16 @@
   <img src="https://img.shields.io/badge/-MongoDB-1d6e32" height=25/> 
   <img src="https://img.shields.io/badge/-Express.js-9fa4a6" height=25/> <br/> 
   <img src="https://img.shields.io/badge/-Mongoose.js-birghtgreen" height=25/> 
+  <img src="https://img.shields.io/badge/-React.js-cyan" height=25/>
   <img src="https://img.shields.io/badge/-JWT-fc0af8" height=25/>
   <img src="https://img.shields.io/badge/-HTML5-critical" height=25/> 
   <img src="https://img.shields.io/badge/-CSS3-blue" height=25/> <br/> 
   <img src="https://img.shields.io/badge/-Bootsrtap-blueviolet" height=25/> 
   <img src="https://img.shields.io/badge/-TailwindCSS-9cf" height=25/> 
   <img src="https://img.shields.io/badge/-MySQL-065b70" height=25/>
+  <img src="https://img.shields.io/badge/-Github-1a1619" height=25/> 
   <img src="https://img.shields.io/badge/-Git-red" height=25/> 
   <img src="https://img.shields.io/badge/-Wordpress-02aef7" height=25/> 
-  <img src="https://img.shields.io/badge/-Github-1a1619" height=25/> 
 </div>
 
 
