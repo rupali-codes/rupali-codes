@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="https://twitter.com/rupali_codes">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge"/>
     
