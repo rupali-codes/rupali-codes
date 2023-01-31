@@ -6,38 +6,37 @@
 
 <p align="center"> 
   <a href="https://twitter.com/rupali_codes">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Twitter-9e7661?style=for-the-badge"/>
     
   </a>
   
    <a href="https://rupali-codes.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge"/>
   </a>
   
   <a href="https://www.linkedin.com/in/rupali-codes">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-9e7661?style=for-the-badge"/>
   </a>
   
    <a href="mailto:rupali7487@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gray?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-7a5c4b?style=for-the-badge"/>
   </a>
  
 </p>
 
-> **Hey! I'm a Full-stack developer focused on Backend, I build web applications and API's with modern tools and technologies, Currently I'm learning ```React.js``` and looking for projects to contribute to ```open source```. To get to know more about me you can visit my portfolio [here](https://rupali-codes.netlify.app). You can also checkout my social handle [links]((https://linktr.ee/rupali_codes)) and follow if you like to.**
+<p align="center"> I'm a Full-stack JavaScript developer with a passion of creating impactful and scalable web applications with using latest trends and technolgies. I love to contributing in open-source projects and collaborating with commnunites. Everyday, I'm improving my skills and trying to become a better version of me.</p>
 
 
-### <p align="center">Technical skills</p>
+### <p align="center">I'm open to collaborate on any open-source project which includes the following</p>
 
 <p align="center">
   <a href="https://rupali-codes.netlify.app">
-    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,mysql,figma" />
+    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
   </a>
 </p>
 <p align="center">
   <a href="https://rupali-codes.netlify.app">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,wordpress" />
   </a>
 </p>
 
----
