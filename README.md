@@ -27,7 +27,7 @@
 <p align="center"> I'm a Full-stack JavaScript developer with a passion of creating impactful and scalable web applications with using latest trends and technolgies. I love to contributing in open-source projects and collaborating with commnunites. Everyday, I'm improving my skills and trying to become a better version of me.</p>
 
 
-### <p align="center">I'm open to collaborate on any open-source project which includes the following</p>
+### <p align="center">Technical Skills</p>
 
 <p align="center">
   <a href="https://rupali-codes.netlify.app">
