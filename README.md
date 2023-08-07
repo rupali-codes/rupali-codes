@@ -1,25 +1,21 @@
-<p align="center">
-  <a href="https://rupali-codes.netlify.app">
-  <img src="https://user-images.githubusercontent.com/78981177/208293926-465377eb-4812-4c4a-b312-0e66281a697c.png" alt="header image"/>
-  </a>
-</p>
+![banner](https://github.com/rupali-codes/rupali-codes/assets/78981177/536f1b07-34e0-48f4-97dd-d9e22d8d7748)
 
 <p align="center"> 
   <a href="https://twitter.com/rupali_codes">
-    <img src="https://img.shields.io/badge/Twitter-9e7661?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Twitter-465149?style=for-the-badge"/>
     
   </a>
   
    <a href="https://rupali-codes.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-465149?style=for-the-badge"/>
   </a>
   
   <a href="https://www.linkedin.com/in/rupali-codes">
-    <img src="https://img.shields.io/badge/LinkedIn-9e7661?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-465149?style=for-the-badge"/>
   </a>
   
    <a href="mailto:rupali7487@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7a5c4b?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
   </a>
  
 </p>
