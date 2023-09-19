@@ -6,7 +6,7 @@
     
   </a>
   
-   <a href="https://rupali-codes.netlify.app">
+   <a href="https://rupali-codes.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-465149?style=for-the-badge"/>
   </a>
   
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-465149?style=for-the-badge"/>
   </a>
   
-   <a href="mailto:rupali7487@gmail.com">
+   <a href="mailto:rupali.codes@gmail.com">
     <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
   </a>
  
