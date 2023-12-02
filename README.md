@@ -6,7 +6,7 @@
     
   </a>
   
-   <a href="https://rupali-codes.vercel.app">
+   <a href="https://rupalihaldiya.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-465149?style=for-the-badge"/>
   </a>
   
