@@ -18,9 +18,11 @@
     <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
   </a>
  
-</p>
+</p> 
 
-<p align="center"> I'm a Full-stack JavaScript developer with a passion of creating impactful and scalable web applications with using latest trends and technolgies. I love to contributing in open-source projects and collaborating with commnunites. Everyday, I'm improving my skills and trying to become a better version of me.</p>
+<p align="center">
+  Rupali is a Full stack developer specialized in Javascript. Currently working as an Implementation Speciallist at CareerBuilder, she's is not only dedicated to her role but also contributing & growing with the open-source community. She's Building in Public and open for collaboration & opportunities to connect.
+</p>
 
 
 ### <p align="center">Technical Skills</p>
@@ -35,4 +37,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,wordpress" />
   </a>
 </p>
-
